@@ -21,6 +21,7 @@ Bypass CloudFlare CC 脚本 by [CUTIVNPT](https://discord.gg/c5AX56)
 
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/whunt1/wrk_script/master/cfcc.py
+pip install requests js2py
 python cfcc.py
 ```
 
